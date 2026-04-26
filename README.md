@@ -1,5 +1,6 @@
 # 💫 About Me:
 I build real-world applications and turn ideas into working products, focusing on web development and AI through hands-on projects.<br>💡 Passionate about problem-solving and development<br>💡 Passionate about problem-solving and development
+<br>
 🔨 Building projects with Python and modern web technologies
 🌱 Learning CSS, JavaScript, and AI fundamentals
 🤖 Developing a personal AI assistant
